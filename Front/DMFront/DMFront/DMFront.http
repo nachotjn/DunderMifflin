@@ -1,0 +1,6 @@
+@DMFront_HostAddress = http://localhost:5032
+
+GET {{DMFront_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@DMBack_HostAddress = http://localhost:5078
+
+GET {{DMBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
