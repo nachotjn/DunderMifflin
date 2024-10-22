@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMFront")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9e3d69cad7c0b0325527b1d75f48c2ae4c4b6fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+998b97804701fd5bf6041cfcc435b946398598c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMFront")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMFront")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
