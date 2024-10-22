@@ -10,13 +10,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c04e7e9-45f1-47ea-98ce-6adc7772c593" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/.idea/.idea.DMBack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/.idea/.idea.DMBack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/.idea/.idea.DMBack/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/.idea/.idea.DMBack/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/DMBack.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/DMBack.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/DMBack.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/DMBack.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DMFront/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DMFront/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DMFront/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DMFront/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/Debug/net8.0/DMBack.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../Back/DMBack/DMBack/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/DMFront.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/DMFront.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/DMFront.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/DMFront.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/Debug/net8.0/DMFront.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMFront/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DMFront/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +64,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Nacher/Desktop/DunderMifflin/Front",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DMFront: http">
     <configuration name="DMFront: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DMFront/DMFront.csproj" />
@@ -119,6 +137,7 @@
       <updated>1729503762499</updated>
       <workItem from="1729503764236" duration="1130000" />
       <workItem from="1729505630303" duration="30000" />
+      <workItem from="1729616535093" duration="68000" />
     </task>
     <servers />
   </component>

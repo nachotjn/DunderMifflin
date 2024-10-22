@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nacho Pino\\.nuget\\packages\\": {}
+    "C:\\Users\\Nacher\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Front\\DMFront\\DMFront\\DMFront.csproj",
+      "projectUniqueName": "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Front\\DMFront\\DMFront\\DMFront.csproj",
       "projectName": "DMFront",
-      "projectPath": "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Front\\DMFront\\DMFront\\DMFront.csproj",
-      "packagesPath": "C:\\Users\\Nacho Pino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Front\\DMFront\\DMFront\\obj\\",
+      "projectPath": "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Front\\DMFront\\DMFront\\DMFront.csproj",
+      "packagesPath": "C:\\Users\\Nacher\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Front\\DMFront\\DMFront\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nacho Pino\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nacher\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -529,7 +529,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
