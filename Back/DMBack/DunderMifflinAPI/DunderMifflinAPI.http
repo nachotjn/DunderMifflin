@@ -1,6 +1,0 @@
-@DunderMifflinAPI_HostAddress = http://localhost:5188
-
-GET {{DunderMifflinAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
