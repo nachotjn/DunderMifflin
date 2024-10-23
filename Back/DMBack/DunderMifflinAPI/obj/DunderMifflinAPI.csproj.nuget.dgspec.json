@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj": {}
+    "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj": {
+    "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj",
         "projectName": "DunderMifflinAPI",
-        "projectPath": "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj",
-        "packagesPath": "C:\\Users\\Nacho Pino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nacho Pino\\OneDrive\\Escritorio\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\obj\\",
+        "projectPath": "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\DunderMifflinAPI.csproj",
+        "packagesPath": "C:\\Users\\Nacher\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nacher\\Desktop\\DunderMifflin\\Back\\DMBack\\DunderMifflinAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nacho Pino\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nacher\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -47,9 +47,29 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
@@ -71,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
